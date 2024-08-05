@@ -1,1 +1,1 @@
-# Online_Course_Management
+# Miniproject
